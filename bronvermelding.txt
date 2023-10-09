@@ -1,0 +1,17 @@
+Naam: Jef van Oers
+studentnummer: 500867181
+klas: Turquiose
+schooljaar:2023-2024
+
+link naar live website
+https://github.com/jvo777/websiteaboutboeing.git
+
+bronvermelding:
+1. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.boeing.com/resources/boeingdotcom/company/about_bca/startup/pdf/historical/747-400-passenger.pdf 
+2. https://www.boeing-me.com/en/747
+3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.boeing.com/farnborough2014/pdf/BCA/bck-777%20Family%20Backgrounder.pdf
+4. https://www.boeing.com/commercial/777/
+5. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.boeing.com/assets/pdf/commercial/airports/acaps/737.pdf
+6. https://www.boeing.com/commercial/737max/
+   
+    
